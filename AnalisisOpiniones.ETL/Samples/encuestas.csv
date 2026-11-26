@@ -1,0 +1,21 @@
+Id,ProductId,Comment,Rating,CreatedAt
+E-1,1,El teclado es cómodo,5,2026-10-01T12:00:00-03:00
+E-2,1,Las teclas hacen poco ruido,4,2026-10-02T12:00:00-03:00
+E-3,1,El cable es corto,3,2026-10-03T12:00:00-03:00
+E-4,1,Buena respuesta al escribir,5,2026-10-04T12:00:00-03:00
+E-5,1,La distribución es clara,4,2026-10-05T12:00:00-03:00
+E-6,2,El ratón se desliza bien,5,2026-10-06T12:00:00-03:00
+E-7,2,La rueda necesita mayor precisión,4,2026-10-07T12:00:00-03:00
+E-8,2,El tamaño se adapta a mi mano,3,2026-10-08T12:00:00-03:00
+E-9,2,El sensor responde rápido,5,2026-10-09T12:00:00-03:00
+E-10,2,Fácil de conectar,4,2026-10-10T12:00:00-03:00
+E-11,3,El soporte está firme,5,2026-10-11T12:00:00-03:00
+E-12,3,La altura es adecuada,4,2026-10-12T12:00:00-03:00
+E-13,3,Se arma con facilidad,3,2026-10-13T12:00:00-03:00
+E-14,3,El soporte ocupa poco espacio,5,2026-10-14T12:00:00-03:00
+E-15,3,La base podría ser más pesada,4,2026-10-15T12:00:00-03:00
+E-16,4,La lámpara ilumina bien,5,2026-10-16T12:00:00-03:00
+E-17,4,El brillo se ajusta fácilmente,4,2026-10-17T12:00:00-03:00
+E-18,4,El brazo queda en posición,3,2026-10-18T12:00:00-03:00
+E-19,4,La luz cálida resulta cómoda,5,2026-10-19T12:00:00-03:00
+E-20,4,El botón es pequeño,4,2026-10-20T12:00:00-03:00
